@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+.venv/
+
+# Java/C++ 빌드 결과물
+*.exe
+*.out
+bin/
+build/
+
+# VS Code 설정
+.vscode/
